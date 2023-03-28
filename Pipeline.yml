@@ -1,2 +1,1 @@
-Trigger:none
-  -include:pipeline.yml
+Trigger:all
