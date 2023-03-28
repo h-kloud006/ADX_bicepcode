@@ -1,2 +1,4 @@
-Trigger:main
+
+Trigger:head
   -exclude:pipeline.yml
+
